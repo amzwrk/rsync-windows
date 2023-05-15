@@ -1,5 +1,5 @@
 Updated 15 MAY 2023: Adding a little more info for those looking to get this working using cygwin version 3.4.6
-> For convenience of others in the same situation (against the orignal author of the repo I forked), I have zipped the files I used. All credits and licenses of their original authors apply. No changes were made to any of the files.
+> For convenience of others in the same situation (contrary to the ideals of the orignal author of the repo I forked), I have zipped the files I used. All credits and licenses of their original authors apply. No changes were made to any of the files.
 ***
 Starting this repo to keep notes about how I got rsync working on Windows.
 
